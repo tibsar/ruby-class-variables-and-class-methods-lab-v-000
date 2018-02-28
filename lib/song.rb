@@ -14,7 +14,7 @@ class Song
   end 
   
   def self.how_many_songs_are_there?
-    
+    @@count 
   end 
   
 end 
