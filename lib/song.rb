@@ -7,6 +7,9 @@ class Song
     @artist = name 
   end 
   
+  def what_is_the_artist 
+  end 
+  
 end 
 
 binding.pry 
