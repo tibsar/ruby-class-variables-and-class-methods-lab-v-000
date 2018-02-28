@@ -8,7 +8,10 @@ class Song
   end 
   
   def what_is_the_artist 
-    binding.pry 
+    @artist 
+  end 
+  
+  def self.how_many_songs_are_there?
   end 
   
 end 
