@@ -1,6 +1,7 @@
 require 'pry'
 
 class Song 
+  @@count = 0 
   
   def initialize(name, artist) 
     @name = name 
@@ -12,6 +13,7 @@ class Song
   end 
   
   def self.how_many_songs_are_there?
+    
   end 
   
 end 
