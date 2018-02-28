@@ -8,6 +8,7 @@ class Song
   end 
   
   def what_is_the_artist 
+    binding.pry 
   end 
   
 end 
